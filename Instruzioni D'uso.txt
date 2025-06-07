@@ -1,0 +1,11 @@
+Istruzioni di utilizzo codice:
+
+-prima sezione per la scelta di come fornire gli input A e b
+
+-alla richiesta dei selettori sarà necessario confrontare la tavola di verità dei datasheet per scegliere le combinazioni reperibile al seguente link:
+ -https://www.ti.com/lit/ds/symlink/sn54s181.pdf?ts=1743147429951&ref_url=https%253A%252F%252Fwww.google.com%252F-
+
+-le successive interazioni con il sistema saranno unicamente legate ai singoli registri e avverranno con 1 secondo di delay tra una e l'altra dopo averne terminata una, le varie funzioni già si spiegano da se ma per recap: 
+  clear = setta tutti i valori a zero e passa al successivo
+  overwrite = ti permette di modificare i valori quante volte vuoi fino a che non decidi di uscire dall'interazione
+  terminazione = conclude l'interazione con il registro corrente e passa al prossimo confermando cosi i valori salvati

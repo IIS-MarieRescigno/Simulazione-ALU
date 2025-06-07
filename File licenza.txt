@@ -1,0 +1,3 @@
+Io Rescigno Marie dichiaro di voler fornire le mie risorse di sviluppo con la licenza GNU - General Pubblic License.
+
+Vedere alla pagina - https://www.gnu.org/licenses/licenses.it.html - per maggiori informazioni.
