@@ -1,0 +1,17 @@
+-porte logiche
+Il primo set di funzioni è dedicato alle porte logiche semplici che utilizzano il calcolo matematico per ottenere il risultato.
+Tramite le porte semplici ho ricavato porte a più ingressi utilizzando funzioni composte da funzioni.
+
+-ALU
+La seconda funzione dedicata all'ALU 74181 che è stata costruita seguendo lo schema a porte logiche fornito dall'insegante ricreandolo interamente.
+
+-Registri 
+La terza funzione è dedicata ai Registri 74198 ed è una ripetizione di 8 singoli flip flop creati tramite logica algoritmica (non seguendo lo schema a porte logiche), possiedono l'opzione di clear, rewrite e save.
+
+-Convertitore da binario a decimale e viceversa
+La quarta e quinta funzione sono dedicate alle conversioni da binario a decimale e viceversa e sfruttano variabili stringa per salvare valori eliminando errori di limite causati dall'utilizzo di variabili che utilizzano
+valori naturali essendo loro limitate a un valore di 32 bit.
+Creata in quanto il calcolatore per funzionare necessita valori decimali.
+
+-Funzione di "singolarizazione" dei valori decimali
+La sesta e ultima funzione è un sistema che estrae dalla stringa di valori un singolo numero e lo rende una variabile propria.
